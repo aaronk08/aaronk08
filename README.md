@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Aaron.
+- I have a great interest in coding.
+- I have a good amount of experience in python and a minimal amount with HTML and CSS.
